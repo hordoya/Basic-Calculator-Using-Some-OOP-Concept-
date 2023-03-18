@@ -43,6 +43,7 @@ There will be quite a lot of impact on the society and economy.
 
 Student will be benefitted from this project because this application can help student to calculate their mathematical problem really quick. It will also help teachers to check answer script quickly. It may also help business man to calculate their profit or loss really quick.
 So I think it has a good impact in our society. 
+
 Limitations and Possible Future Improvements:
 
 This project can take only two number. But it cannot take more than that.
