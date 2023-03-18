@@ -1,4 +1,5 @@
-Introduction:
+Introduction: 
+
 I done this project for calculate one or two integer and double number. I believe with this project we can help our society in various technical aspect. With this project we can help our people to calculate various calculation.
 
 Problem Analysis:
@@ -6,7 +7,6 @@ Problem Analysis:
 With this project some mathematical problem can be solved. For example: addition, multiplication, subtraction, division, power E.T.C.
 
 Mainly Students & Teacher will use this application. But other people like Businessman can also use this application.
-
 
 
 UI Design Analysis:
